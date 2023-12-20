@@ -7,6 +7,6 @@ public class testfdd {
 	//test merge conflict
 	//merge without doing a pulll
 //Update master directly
-	//teststatus update what happend
+	//teststatus update what happend resolve conficts locally
 
 }
