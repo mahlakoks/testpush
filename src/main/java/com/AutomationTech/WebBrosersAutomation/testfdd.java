@@ -5,4 +5,5 @@ public class testfdd {
 //test modifications
 	//test merge conflict
 	//test merge conflict
+	//merge without doing a pulll
 }
