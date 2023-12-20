@@ -4,4 +4,5 @@ public class testfdd {
 	//ghhghggh
 //test modifications
 	//test merge conflict
+	//test merge conflict
 }
